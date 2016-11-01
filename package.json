@@ -1,0 +1,25 @@
+{
+  "name": "modernejs",
+  "version": "1.0.0",
+  "description": "Bygg en REST-basert web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jostone/NerdschoolModerneJS.git"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "web",
+    "fun"
+  ],
+  "author": "Jostein Bergheim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jostone/NerdschoolModerneJS/issues"
+  },
+  "homepage": "https://github.com/Jostone/NerdschoolModerneJS#readme"
+}
